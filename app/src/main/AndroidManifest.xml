@@ -23,6 +23,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.InstagramClone">
+        <activity android:name=".SignupActivity"></activity>
 
         <provider
             android:name="androidx.core.content.FileProvider"
